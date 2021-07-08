@@ -1,0 +1,22 @@
+.h1{
+    font-size: 60px;
+    color: white;
+    background-color: coral;
+    width: 185px;
+
+}
+.html{
+    height: 300px;
+    width: 250px;
+    padding-left: 30%;
+    padding-right: 10%;
+    ;
+}
+.p-style{
+    font-size: 30px;
+    background-color: turquoise;
+    border: violet;
+    box-sizing: border-box;
+    color:black;
+    box-shadow: blue;
+}
